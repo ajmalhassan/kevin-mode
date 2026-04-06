@@ -1,0 +1,13 @@
+{
+  "name": "kevin-mode",
+  "version": "1.0.0",
+  "description": "Ultra-terse Kevin Malone response style for Claude Code. Few word do trick.",
+  "keywords": [
+    "claude-code",
+    "skill",
+    "terse",
+    "token-saving",
+    "kevin-malone"
+  ],
+  "license": "MIT"
+}
